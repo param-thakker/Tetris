@@ -22,3 +22,5 @@ make
 ./tetris
 
 
+**To-Do**
+Implement score functionality and sound
