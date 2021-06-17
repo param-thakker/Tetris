@@ -1,4 +1,4 @@
-**Tetris**
+###Tetris
 
 
 ### Mac
@@ -19,4 +19,5 @@ git clone https://github.com/param-thakker/Tetris.git
 cd tetris
 make
 ./tetris
+```
 
