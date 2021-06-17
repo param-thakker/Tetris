@@ -21,6 +21,12 @@ make
 
 ./tetris
 
+**Controls**
+
+Arrow keys for direction
+x for sending tetromino to the bottom-most free position
+
+z for rotating the tetromino
 
 **To-Do**
 
